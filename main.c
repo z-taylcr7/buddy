@@ -1,5 +1,3 @@
-#define BASIC_PAGE (1024 * 4) //4K
-#define MAX_RANK 16
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
